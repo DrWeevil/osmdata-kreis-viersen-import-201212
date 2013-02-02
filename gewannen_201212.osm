@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.5' upload='true' generator='JOSM'>
+  <node id='-20439' action='modify' visible='true' lat='51.4239262889357' lon='6.52361165773882'>
+    <tag k='name' v='An den Heidbenden' />
+    <tag k='place' v='locality' />
+    <tag k='source' v='Kreis_Viersen_Katasteramt_2012_12' />
+  </node>
+  <node id='-20437' action='modify' visible='true' lat='51.4221054043192' lon='6.52361902196789'>
+    <tag k='name' v='Große Hey Benden' />
+    <tag k='place' v='locality' />
+    <tag k='source' v='Kreis_Viersen_Katasteramt_2012_12' />
+  </node>
+  <node id='-20435' action='modify' visible='true' lat='51.4201075593451' lon='6.52586458874783'>
+    <tag k='name' v='Klein Leere Benden' />
+    <tag k='place' v='locality' />
+    <tag k='source' v='Kreis_Viersen_Katasteramt_2012_12' />
+  </node>
+  <node id='-20433' action='modify' visible='true' lat='51.4186087018266' lon='6.52273198422257'>
+    <tag k='name' v='Fitsches Feld' />
+    <tag k='place' v='locality' />
+    <tag k='source' v='Kreis_Viersen_Katasteramt_2012_12' />
+  </node>
+  <node id='-20431' action='modify' visible='true' lat='51.4231667427494' lon='6.51862829081975'>
+    <tag k='name' v='Hey Benden' />
+    <tag k='place' v='locality' />
+    <tag k='source' v='Kreis_Viersen_Katasteramt_2012_12' />
+  </node>
+  <node id='-20429' action='modify' visible='true' lat='51.4198061864403' lon='6.5196938097107'>
+    <tag k='name' v='Selzerbruchgraben' />
+    <tag k='place' v='locality' />
+    <tag k='source' v='Kreis_Viersen_Katasteramt_2012_12' />
+  </node>
+  <node id='-20427' action='modify' visible='true' lat='51.4167976991965' lon='6.52669946664843'>
+    <tag k='name' v='Am Selzer Dyk' />
+    <tag k='place' v='locality' />
+    <tag k='source' v='Kreis_Viersen_Katasteramt_2012_12' />
+  </node>
+  <node id='-14455' action='modify' visible='true' lat='51.178400215564' lon='6.08494283745917'>
+    <tag k='name' v='Steinhuevel' />
+    <tag k='place' v='locality' />
+    <tag k='source' v='Kreis_Viersen_Katasteramt_2012_12' />
+  </node>
+  <node id='-14453' action='modify' visible='true' lat='51.1771082517401' lon='6.09766753074422'>
+    <tag k='name' v='Rauenscherpenberg' />
+    <tag k='place' v='locality' />
+    <tag k='source' v='Kreis_Viersen_Katasteramt_2012_12' />
+  </node>
+</osm>
